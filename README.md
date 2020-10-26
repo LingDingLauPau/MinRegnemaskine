@@ -1,0 +1,2 @@
+# MinRegnemaskine
+Simple Calculator
